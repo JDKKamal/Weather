@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <!--    ERROR MESSAGE      -->
+    <string name="msg_connection_time_out">Connection time out, please try again</string>
+    <string name="no_internet_message">Internet connection is not available!</string>
+    <string name="msg_activity_not_found">No activity found to handle this action.</string>
+    <string name="msg_server_not_responding">Server is not responding, please try again</string>
+
+    <string name="login_no_account">Don\'t have an account?</string>
+    <string name="login_register">REGISTER</string>
+
+    <string name="forgot_your_password">Forgot your password?</string>
+
+    <!--    HINT      -->
+    <string name="hint_email"> Email </string>
+    <string name="hint_password"> Password </string>
+
+    <!--    FONT      -->
+    <string name="regular_font">fonts/aileron_regular.otf</string>
+    <string name="light_font">fonts/aileron_light.otf</string>
+    <string name="semibold_font">fonts/aileron_semibold.otf</string>
+
+</resources>
